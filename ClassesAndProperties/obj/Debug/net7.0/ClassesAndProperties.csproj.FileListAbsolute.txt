@@ -1,0 +1,15 @@
+C:\CodingProjects\C#\Exam\ClassesAndProperties\obj\Debug\net7.0\ClassesAndProperties.csproj.AssemblyReference.cache
+C:\CodingProjects\C#\Exam\ClassesAndProperties\obj\Debug\net7.0\ClassesAndProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodingProjects\C#\Exam\ClassesAndProperties\obj\Debug\net7.0\ClassesAndProperties.AssemblyInfoInputs.cache
+C:\CodingProjects\C#\Exam\ClassesAndProperties\obj\Debug\net7.0\ClassesAndProperties.AssemblyInfo.cs
+C:\CodingProjects\C#\Exam\ClassesAndProperties\obj\Debug\net7.0\ClassesAndProperties.csproj.CoreCompileInputs.cache
+C:\CodingProjects\C#\Exam\ClassesAndProperties\bin\Debug\net7.0\ClassesAndProperties.exe
+C:\CodingProjects\C#\Exam\ClassesAndProperties\bin\Debug\net7.0\ClassesAndProperties.deps.json
+C:\CodingProjects\C#\Exam\ClassesAndProperties\bin\Debug\net7.0\ClassesAndProperties.runtimeconfig.json
+C:\CodingProjects\C#\Exam\ClassesAndProperties\bin\Debug\net7.0\ClassesAndProperties.dll
+C:\CodingProjects\C#\Exam\ClassesAndProperties\bin\Debug\net7.0\ClassesAndProperties.pdb
+C:\CodingProjects\C#\Exam\ClassesAndProperties\obj\Debug\net7.0\ClassesAndProperties.dll
+C:\CodingProjects\C#\Exam\ClassesAndProperties\obj\Debug\net7.0\refint\ClassesAndProperties.dll
+C:\CodingProjects\C#\Exam\ClassesAndProperties\obj\Debug\net7.0\ClassesAndProperties.pdb
+C:\CodingProjects\C#\Exam\ClassesAndProperties\obj\Debug\net7.0\ClassesAndProperties.genruntimeconfig.cache
+C:\CodingProjects\C#\Exam\ClassesAndProperties\obj\Debug\net7.0\ref\ClassesAndProperties.dll

@@ -1,0 +1,15 @@
+C:\CodingProjects\C#\Exam\typeSystem\obj\Debug\net7.0\typeSystem.csproj.AssemblyReference.cache
+C:\CodingProjects\C#\Exam\typeSystem\obj\Debug\net7.0\typeSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodingProjects\C#\Exam\typeSystem\obj\Debug\net7.0\typeSystem.AssemblyInfoInputs.cache
+C:\CodingProjects\C#\Exam\typeSystem\obj\Debug\net7.0\typeSystem.AssemblyInfo.cs
+C:\CodingProjects\C#\Exam\typeSystem\obj\Debug\net7.0\typeSystem.csproj.CoreCompileInputs.cache
+C:\CodingProjects\C#\Exam\typeSystem\bin\Debug\net7.0\typeSystem.exe
+C:\CodingProjects\C#\Exam\typeSystem\bin\Debug\net7.0\typeSystem.deps.json
+C:\CodingProjects\C#\Exam\typeSystem\bin\Debug\net7.0\typeSystem.runtimeconfig.json
+C:\CodingProjects\C#\Exam\typeSystem\bin\Debug\net7.0\typeSystem.dll
+C:\CodingProjects\C#\Exam\typeSystem\bin\Debug\net7.0\typeSystem.pdb
+C:\CodingProjects\C#\Exam\typeSystem\obj\Debug\net7.0\typeSystem.dll
+C:\CodingProjects\C#\Exam\typeSystem\obj\Debug\net7.0\refint\typeSystem.dll
+C:\CodingProjects\C#\Exam\typeSystem\obj\Debug\net7.0\typeSystem.pdb
+C:\CodingProjects\C#\Exam\typeSystem\obj\Debug\net7.0\typeSystem.genruntimeconfig.cache
+C:\CodingProjects\C#\Exam\typeSystem\obj\Debug\net7.0\ref\typeSystem.dll

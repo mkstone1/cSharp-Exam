@@ -1,0 +1,15 @@
+C:\CodingProjects\C#\Exam\Attributes\obj\Debug\net7.0\Attributes.csproj.AssemblyReference.cache
+C:\CodingProjects\C#\Exam\Attributes\obj\Debug\net7.0\Attributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodingProjects\C#\Exam\Attributes\obj\Debug\net7.0\Attributes.AssemblyInfoInputs.cache
+C:\CodingProjects\C#\Exam\Attributes\obj\Debug\net7.0\Attributes.AssemblyInfo.cs
+C:\CodingProjects\C#\Exam\Attributes\obj\Debug\net7.0\Attributes.csproj.CoreCompileInputs.cache
+C:\CodingProjects\C#\Exam\Attributes\bin\Debug\net7.0\Attributes.exe
+C:\CodingProjects\C#\Exam\Attributes\bin\Debug\net7.0\Attributes.deps.json
+C:\CodingProjects\C#\Exam\Attributes\bin\Debug\net7.0\Attributes.runtimeconfig.json
+C:\CodingProjects\C#\Exam\Attributes\bin\Debug\net7.0\Attributes.dll
+C:\CodingProjects\C#\Exam\Attributes\bin\Debug\net7.0\Attributes.pdb
+C:\CodingProjects\C#\Exam\Attributes\obj\Debug\net7.0\Attributes.dll
+C:\CodingProjects\C#\Exam\Attributes\obj\Debug\net7.0\refint\Attributes.dll
+C:\CodingProjects\C#\Exam\Attributes\obj\Debug\net7.0\Attributes.pdb
+C:\CodingProjects\C#\Exam\Attributes\obj\Debug\net7.0\Attributes.genruntimeconfig.cache
+C:\CodingProjects\C#\Exam\Attributes\obj\Debug\net7.0\ref\Attributes.dll

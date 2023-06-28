@@ -1,0 +1,6 @@
+to create
+dotnet build
+
+
+to run
+dotnet run

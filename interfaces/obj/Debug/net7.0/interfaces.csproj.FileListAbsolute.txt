@@ -1,0 +1,15 @@
+C:\CodingProjects\C#\Exam\interfaces\obj\Debug\net7.0\interfaces.csproj.AssemblyReference.cache
+C:\CodingProjects\C#\Exam\interfaces\obj\Debug\net7.0\interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodingProjects\C#\Exam\interfaces\obj\Debug\net7.0\interfaces.AssemblyInfoInputs.cache
+C:\CodingProjects\C#\Exam\interfaces\obj\Debug\net7.0\interfaces.AssemblyInfo.cs
+C:\CodingProjects\C#\Exam\interfaces\obj\Debug\net7.0\interfaces.csproj.CoreCompileInputs.cache
+C:\CodingProjects\C#\Exam\interfaces\bin\Debug\net7.0\interfaces.exe
+C:\CodingProjects\C#\Exam\interfaces\bin\Debug\net7.0\interfaces.deps.json
+C:\CodingProjects\C#\Exam\interfaces\bin\Debug\net7.0\interfaces.runtimeconfig.json
+C:\CodingProjects\C#\Exam\interfaces\bin\Debug\net7.0\interfaces.dll
+C:\CodingProjects\C#\Exam\interfaces\bin\Debug\net7.0\interfaces.pdb
+C:\CodingProjects\C#\Exam\interfaces\obj\Debug\net7.0\interfaces.dll
+C:\CodingProjects\C#\Exam\interfaces\obj\Debug\net7.0\refint\interfaces.dll
+C:\CodingProjects\C#\Exam\interfaces\obj\Debug\net7.0\interfaces.pdb
+C:\CodingProjects\C#\Exam\interfaces\obj\Debug\net7.0\interfaces.genruntimeconfig.cache
+C:\CodingProjects\C#\Exam\interfaces\obj\Debug\net7.0\ref\interfaces.dll

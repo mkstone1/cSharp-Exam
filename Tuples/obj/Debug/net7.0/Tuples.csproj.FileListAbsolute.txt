@@ -1,0 +1,15 @@
+C:\CodingProjects\C#\Exam\Tuples\bin\Debug\net7.0\Tuples.exe
+C:\CodingProjects\C#\Exam\Tuples\bin\Debug\net7.0\Tuples.deps.json
+C:\CodingProjects\C#\Exam\Tuples\bin\Debug\net7.0\Tuples.runtimeconfig.json
+C:\CodingProjects\C#\Exam\Tuples\bin\Debug\net7.0\Tuples.dll
+C:\CodingProjects\C#\Exam\Tuples\bin\Debug\net7.0\Tuples.pdb
+C:\CodingProjects\C#\Exam\Tuples\obj\Debug\net7.0\Tuples.csproj.AssemblyReference.cache
+C:\CodingProjects\C#\Exam\Tuples\obj\Debug\net7.0\Tuples.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodingProjects\C#\Exam\Tuples\obj\Debug\net7.0\Tuples.AssemblyInfoInputs.cache
+C:\CodingProjects\C#\Exam\Tuples\obj\Debug\net7.0\Tuples.AssemblyInfo.cs
+C:\CodingProjects\C#\Exam\Tuples\obj\Debug\net7.0\Tuples.csproj.CoreCompileInputs.cache
+C:\CodingProjects\C#\Exam\Tuples\obj\Debug\net7.0\Tuples.dll
+C:\CodingProjects\C#\Exam\Tuples\obj\Debug\net7.0\refint\Tuples.dll
+C:\CodingProjects\C#\Exam\Tuples\obj\Debug\net7.0\Tuples.pdb
+C:\CodingProjects\C#\Exam\Tuples\obj\Debug\net7.0\Tuples.genruntimeconfig.cache
+C:\CodingProjects\C#\Exam\Tuples\obj\Debug\net7.0\ref\Tuples.dll

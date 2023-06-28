@@ -1,0 +1,15 @@
+C:\CodingProjects\C#\Exam\Functionalprogramming\obj\Debug\net7.0\Functionalprogramming.csproj.AssemblyReference.cache
+C:\CodingProjects\C#\Exam\Functionalprogramming\obj\Debug\net7.0\Functionalprogramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodingProjects\C#\Exam\Functionalprogramming\obj\Debug\net7.0\Functionalprogramming.AssemblyInfoInputs.cache
+C:\CodingProjects\C#\Exam\Functionalprogramming\obj\Debug\net7.0\Functionalprogramming.AssemblyInfo.cs
+C:\CodingProjects\C#\Exam\Functionalprogramming\obj\Debug\net7.0\Functionalprogramming.csproj.CoreCompileInputs.cache
+C:\CodingProjects\C#\Exam\Functionalprogramming\bin\Debug\net7.0\Functionalprogramming.exe
+C:\CodingProjects\C#\Exam\Functionalprogramming\bin\Debug\net7.0\Functionalprogramming.deps.json
+C:\CodingProjects\C#\Exam\Functionalprogramming\bin\Debug\net7.0\Functionalprogramming.runtimeconfig.json
+C:\CodingProjects\C#\Exam\Functionalprogramming\bin\Debug\net7.0\Functionalprogramming.dll
+C:\CodingProjects\C#\Exam\Functionalprogramming\bin\Debug\net7.0\Functionalprogramming.pdb
+C:\CodingProjects\C#\Exam\Functionalprogramming\obj\Debug\net7.0\Functionalprogramming.dll
+C:\CodingProjects\C#\Exam\Functionalprogramming\obj\Debug\net7.0\refint\Functionalprogramming.dll
+C:\CodingProjects\C#\Exam\Functionalprogramming\obj\Debug\net7.0\Functionalprogramming.pdb
+C:\CodingProjects\C#\Exam\Functionalprogramming\obj\Debug\net7.0\Functionalprogramming.genruntimeconfig.cache
+C:\CodingProjects\C#\Exam\Functionalprogramming\obj\Debug\net7.0\ref\Functionalprogramming.dll

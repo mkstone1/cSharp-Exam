@@ -1,0 +1,15 @@
+C:\CodingProjects\C#\Exam\async-await-tasks\bin\Debug\net7.0\async-await-tasks.exe
+C:\CodingProjects\C#\Exam\async-await-tasks\bin\Debug\net7.0\async-await-tasks.deps.json
+C:\CodingProjects\C#\Exam\async-await-tasks\bin\Debug\net7.0\async-await-tasks.runtimeconfig.json
+C:\CodingProjects\C#\Exam\async-await-tasks\bin\Debug\net7.0\async-await-tasks.dll
+C:\CodingProjects\C#\Exam\async-await-tasks\bin\Debug\net7.0\async-await-tasks.pdb
+C:\CodingProjects\C#\Exam\async-await-tasks\obj\Debug\net7.0\async-await-tasks.csproj.AssemblyReference.cache
+C:\CodingProjects\C#\Exam\async-await-tasks\obj\Debug\net7.0\async-await-tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodingProjects\C#\Exam\async-await-tasks\obj\Debug\net7.0\async-await-tasks.AssemblyInfoInputs.cache
+C:\CodingProjects\C#\Exam\async-await-tasks\obj\Debug\net7.0\async-await-tasks.AssemblyInfo.cs
+C:\CodingProjects\C#\Exam\async-await-tasks\obj\Debug\net7.0\async-await-tasks.csproj.CoreCompileInputs.cache
+C:\CodingProjects\C#\Exam\async-await-tasks\obj\Debug\net7.0\async-await-tasks.dll
+C:\CodingProjects\C#\Exam\async-await-tasks\obj\Debug\net7.0\refint\async-await-tasks.dll
+C:\CodingProjects\C#\Exam\async-await-tasks\obj\Debug\net7.0\async-await-tasks.pdb
+C:\CodingProjects\C#\Exam\async-await-tasks\obj\Debug\net7.0\async-await-tasks.genruntimeconfig.cache
+C:\CodingProjects\C#\Exam\async-await-tasks\obj\Debug\net7.0\ref\async-await-tasks.dll

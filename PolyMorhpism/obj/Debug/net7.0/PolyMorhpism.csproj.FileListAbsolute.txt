@@ -1,0 +1,15 @@
+C:\CodingProjects\C#\Exam\PolyMorhpism\obj\Debug\net7.0\PolyMorhpism.csproj.AssemblyReference.cache
+C:\CodingProjects\C#\Exam\PolyMorhpism\obj\Debug\net7.0\PolyMorhpism.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodingProjects\C#\Exam\PolyMorhpism\obj\Debug\net7.0\PolyMorhpism.AssemblyInfoInputs.cache
+C:\CodingProjects\C#\Exam\PolyMorhpism\obj\Debug\net7.0\PolyMorhpism.AssemblyInfo.cs
+C:\CodingProjects\C#\Exam\PolyMorhpism\obj\Debug\net7.0\PolyMorhpism.csproj.CoreCompileInputs.cache
+C:\CodingProjects\C#\Exam\PolyMorhpism\bin\Debug\net7.0\PolyMorhpism.exe
+C:\CodingProjects\C#\Exam\PolyMorhpism\bin\Debug\net7.0\PolyMorhpism.deps.json
+C:\CodingProjects\C#\Exam\PolyMorhpism\bin\Debug\net7.0\PolyMorhpism.runtimeconfig.json
+C:\CodingProjects\C#\Exam\PolyMorhpism\bin\Debug\net7.0\PolyMorhpism.dll
+C:\CodingProjects\C#\Exam\PolyMorhpism\bin\Debug\net7.0\PolyMorhpism.pdb
+C:\CodingProjects\C#\Exam\PolyMorhpism\obj\Debug\net7.0\PolyMorhpism.dll
+C:\CodingProjects\C#\Exam\PolyMorhpism\obj\Debug\net7.0\refint\PolyMorhpism.dll
+C:\CodingProjects\C#\Exam\PolyMorhpism\obj\Debug\net7.0\PolyMorhpism.pdb
+C:\CodingProjects\C#\Exam\PolyMorhpism\obj\Debug\net7.0\PolyMorhpism.genruntimeconfig.cache
+C:\CodingProjects\C#\Exam\PolyMorhpism\obj\Debug\net7.0\ref\PolyMorhpism.dll

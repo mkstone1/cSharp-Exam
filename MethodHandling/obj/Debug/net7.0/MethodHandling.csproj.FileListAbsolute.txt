@@ -1,0 +1,15 @@
+C:\CodingProjects\C#\Exam\MethodHandling\obj\Debug\net7.0\MethodHandling.csproj.AssemblyReference.cache
+C:\CodingProjects\C#\Exam\MethodHandling\obj\Debug\net7.0\MethodHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodingProjects\C#\Exam\MethodHandling\obj\Debug\net7.0\MethodHandling.AssemblyInfoInputs.cache
+C:\CodingProjects\C#\Exam\MethodHandling\obj\Debug\net7.0\MethodHandling.AssemblyInfo.cs
+C:\CodingProjects\C#\Exam\MethodHandling\obj\Debug\net7.0\MethodHandling.csproj.CoreCompileInputs.cache
+C:\CodingProjects\C#\Exam\MethodHandling\bin\Debug\net7.0\MethodHandling.exe
+C:\CodingProjects\C#\Exam\MethodHandling\bin\Debug\net7.0\MethodHandling.deps.json
+C:\CodingProjects\C#\Exam\MethodHandling\bin\Debug\net7.0\MethodHandling.runtimeconfig.json
+C:\CodingProjects\C#\Exam\MethodHandling\bin\Debug\net7.0\MethodHandling.dll
+C:\CodingProjects\C#\Exam\MethodHandling\bin\Debug\net7.0\MethodHandling.pdb
+C:\CodingProjects\C#\Exam\MethodHandling\obj\Debug\net7.0\MethodHandling.dll
+C:\CodingProjects\C#\Exam\MethodHandling\obj\Debug\net7.0\refint\MethodHandling.dll
+C:\CodingProjects\C#\Exam\MethodHandling\obj\Debug\net7.0\MethodHandling.pdb
+C:\CodingProjects\C#\Exam\MethodHandling\obj\Debug\net7.0\MethodHandling.genruntimeconfig.cache
+C:\CodingProjects\C#\Exam\MethodHandling\obj\Debug\net7.0\ref\MethodHandling.dll

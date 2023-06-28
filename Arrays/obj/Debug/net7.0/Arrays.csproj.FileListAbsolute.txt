@@ -1,0 +1,15 @@
+C:\CodingProjects\C#\Exam\arrays\obj\Debug\net7.0\Arrays.csproj.AssemblyReference.cache
+C:\CodingProjects\C#\Exam\arrays\obj\Debug\net7.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodingProjects\C#\Exam\arrays\obj\Debug\net7.0\Arrays.AssemblyInfoInputs.cache
+C:\CodingProjects\C#\Exam\arrays\obj\Debug\net7.0\Arrays.AssemblyInfo.cs
+C:\CodingProjects\C#\Exam\arrays\obj\Debug\net7.0\Arrays.csproj.CoreCompileInputs.cache
+C:\CodingProjects\C#\Exam\arrays\bin\Debug\net7.0\Arrays.exe
+C:\CodingProjects\C#\Exam\arrays\bin\Debug\net7.0\Arrays.deps.json
+C:\CodingProjects\C#\Exam\arrays\bin\Debug\net7.0\Arrays.runtimeconfig.json
+C:\CodingProjects\C#\Exam\arrays\bin\Debug\net7.0\Arrays.dll
+C:\CodingProjects\C#\Exam\arrays\bin\Debug\net7.0\Arrays.pdb
+C:\CodingProjects\C#\Exam\arrays\obj\Debug\net7.0\Arrays.dll
+C:\CodingProjects\C#\Exam\arrays\obj\Debug\net7.0\refint\Arrays.dll
+C:\CodingProjects\C#\Exam\arrays\obj\Debug\net7.0\Arrays.pdb
+C:\CodingProjects\C#\Exam\arrays\obj\Debug\net7.0\Arrays.genruntimeconfig.cache
+C:\CodingProjects\C#\Exam\arrays\obj\Debug\net7.0\ref\Arrays.dll

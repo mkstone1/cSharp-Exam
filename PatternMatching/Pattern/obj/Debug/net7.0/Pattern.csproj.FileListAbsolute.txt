@@ -1,0 +1,15 @@
+C:\CodingProjects\C#\Exam\PatternMatching\Pattern\bin\Debug\net7.0\Pattern.exe
+C:\CodingProjects\C#\Exam\PatternMatching\Pattern\bin\Debug\net7.0\Pattern.deps.json
+C:\CodingProjects\C#\Exam\PatternMatching\Pattern\bin\Debug\net7.0\Pattern.runtimeconfig.json
+C:\CodingProjects\C#\Exam\PatternMatching\Pattern\bin\Debug\net7.0\Pattern.dll
+C:\CodingProjects\C#\Exam\PatternMatching\Pattern\bin\Debug\net7.0\Pattern.pdb
+C:\CodingProjects\C#\Exam\PatternMatching\Pattern\obj\Debug\net7.0\Pattern.csproj.AssemblyReference.cache
+C:\CodingProjects\C#\Exam\PatternMatching\Pattern\obj\Debug\net7.0\Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodingProjects\C#\Exam\PatternMatching\Pattern\obj\Debug\net7.0\Pattern.AssemblyInfoInputs.cache
+C:\CodingProjects\C#\Exam\PatternMatching\Pattern\obj\Debug\net7.0\Pattern.AssemblyInfo.cs
+C:\CodingProjects\C#\Exam\PatternMatching\Pattern\obj\Debug\net7.0\Pattern.csproj.CoreCompileInputs.cache
+C:\CodingProjects\C#\Exam\PatternMatching\Pattern\obj\Debug\net7.0\Pattern.dll
+C:\CodingProjects\C#\Exam\PatternMatching\Pattern\obj\Debug\net7.0\refint\Pattern.dll
+C:\CodingProjects\C#\Exam\PatternMatching\Pattern\obj\Debug\net7.0\Pattern.pdb
+C:\CodingProjects\C#\Exam\PatternMatching\Pattern\obj\Debug\net7.0\Pattern.genruntimeconfig.cache
+C:\CodingProjects\C#\Exam\PatternMatching\Pattern\obj\Debug\net7.0\ref\Pattern.dll

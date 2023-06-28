@@ -1,0 +1,15 @@
+C:\CodingProjects\C#\Exam\StringInterpolation\bin\Debug\net7.0\StringInterpolation.exe
+C:\CodingProjects\C#\Exam\StringInterpolation\bin\Debug\net7.0\StringInterpolation.deps.json
+C:\CodingProjects\C#\Exam\StringInterpolation\bin\Debug\net7.0\StringInterpolation.runtimeconfig.json
+C:\CodingProjects\C#\Exam\StringInterpolation\bin\Debug\net7.0\StringInterpolation.dll
+C:\CodingProjects\C#\Exam\StringInterpolation\bin\Debug\net7.0\StringInterpolation.pdb
+C:\CodingProjects\C#\Exam\StringInterpolation\obj\Debug\net7.0\StringInterpolation.csproj.AssemblyReference.cache
+C:\CodingProjects\C#\Exam\StringInterpolation\obj\Debug\net7.0\StringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodingProjects\C#\Exam\StringInterpolation\obj\Debug\net7.0\StringInterpolation.AssemblyInfoInputs.cache
+C:\CodingProjects\C#\Exam\StringInterpolation\obj\Debug\net7.0\StringInterpolation.AssemblyInfo.cs
+C:\CodingProjects\C#\Exam\StringInterpolation\obj\Debug\net7.0\StringInterpolation.csproj.CoreCompileInputs.cache
+C:\CodingProjects\C#\Exam\StringInterpolation\obj\Debug\net7.0\StringInterpolation.dll
+C:\CodingProjects\C#\Exam\StringInterpolation\obj\Debug\net7.0\refint\StringInterpolation.dll
+C:\CodingProjects\C#\Exam\StringInterpolation\obj\Debug\net7.0\StringInterpolation.pdb
+C:\CodingProjects\C#\Exam\StringInterpolation\obj\Debug\net7.0\StringInterpolation.genruntimeconfig.cache
+C:\CodingProjects\C#\Exam\StringInterpolation\obj\Debug\net7.0\ref\StringInterpolation.dll
