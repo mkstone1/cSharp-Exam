@@ -1,5 +1,5 @@
 to create
-dotnet build
+dotnet new console -o [name]
 
 
 to run
